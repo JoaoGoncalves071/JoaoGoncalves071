@@ -1,9 +1,9 @@
 <h2>About me</h2>
 <p> 👋 Hi, I’m João Gonçalves </p>
-- 👀 I’m interested in Coding/Games/Tech
-- 🌱 I’m currently learning Python/Java/HTML/CSS/JavaScript...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: joaomariamalhogoncalves@gmail.com
+<p> 👀 I’m interested in Coding/Games/Tech </p>
+<p> 🌱 I’m currently learning Python/Java/HTML/CSS/JavaScript... </p>
+<p> 💞️ I’m looking to collaborate on ... </p>
+<p> 📫 How to reach me: joaomariamalhogoncalves@gmail.com </p>
 
 <h2>Skills & Programs Used</h2>
 <p align="left">
