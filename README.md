@@ -1,5 +1,5 @@
 <h2>About me</h2>
-- 👋 Hi, I’m João Gonçalves
+<p> 👋 Hi, I’m João Gonçalves </p>
 - 👀 I’m interested in Coding/Games/Tech
 - 🌱 I’m currently learning Python/Java/HTML/CSS/JavaScript...
 - 💞️ I’m looking to collaborate on ...
